@@ -1,0 +1,5 @@
+94-168-74-82.static.v4.ziggozakelijk.nl
+beheer.ziggozakelijk.nl
+api.ziggozakelijk.nl
+cloud.ziggozakelijk.nl
+cloudbeheer.ziggozakelijk.nl
